@@ -4,7 +4,7 @@ spring:
   application:
     name: notification-service
   kafka:
-    bootstrap-servers: localhost:9092
+    bootstrap-servers: 146.190.8.98:9092
   mail:
     host: smtp.gmail.com
     port: 587
